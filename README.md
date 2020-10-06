@@ -1,8 +1,6 @@
 # docker-humann2
 Docker image running HUMANN2
 
-[![Docker Repository on Quay](https://quay.io/repository/fhcrc-microbiome/humann2/status "Docker Repository on Quay")](https://quay.io/repository/fhcrc-microbiome/humann2)
-
 This image has installed a pinned version of HUMAnN2. 
 
 
